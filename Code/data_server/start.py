@@ -11,5 +11,6 @@ def main():
     request_thread = Thread(target=data_server.request_measurements)
     request_thread.start()
 
+
 if __name__ == '__main__':
     main()
