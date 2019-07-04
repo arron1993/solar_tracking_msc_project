@@ -1,0 +1,24 @@
+<script>
+function get_live()
+{
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "/data", true);
+    xhr.onload = function (e) {
+      if (xhr.readyState === 4) {
+        if (xhr.status === 200) {
+          console.log(xhr.responseText);
+        } else {
+          console.error(xhr.statusText);
+        }
+      }
+    };
+    xhr.onerror = function (e) {
+      console.error(xhr.statusText);
+    };
+    xhr.send(null);
+}
+function start_live_feed() 
+{
+      nIntervId = setInterval(start_live_feed, 1000);
+}
+</script>

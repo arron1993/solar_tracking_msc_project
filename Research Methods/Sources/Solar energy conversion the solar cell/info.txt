@@ -1,0 +1,18 @@
+
+
+    Title: Solar energy conversion [electronic resource] : the solar cell
+    Author: Richard C. Neville
+    Description: APPENDIX B: SELECTED PROPERTIES OF SEMICONDUCTORS WITH SOLAR CELL POTENTIALAPPENDIX C: THE SATURATION CURRENT IN PN JUNCTION SOLAR CELLS; APPENDIX D: SOME USEFUL PHYSICAL CONSTANTS; APPENDIX E: SYMBOLS; SUBJECT INDEX;
+    A large number of solar cell and solar cell systems are described in this volume. The theory of their operation, their design and the levels of their performance is discussed. Originally the book appeared in 1978 but extensive change over the intervening years in the fields of energy generation and consumption, solar energy and solar cells, has necessitated the publication of an updated version. The text initially surveys the requirements of humanity, the subsequent need for solar cells, the nature of sunlight and the properties of semiconductors. Concrete examples, extensive references and theoretical arguments are then used to present a comparison of options available in the design and operation of solar cells and solar cell systems. The cells - constructed from single, crystal, polycrystalline and amorphous semiconductors - and the systems - have varying designs and differing levels of solar energy for input and produce electricity or electrical and thermal energies. Solar cell production, economics and environmental effects are considered throughout the publication.
+    Subjects: Solar cells; Solar energy; Solar energy
+    Publisher: Amsterdam ; New York : Elsevier
+    Publication date: 1995
+    Identifier: ISBN 9780444898180;ISBN 0444898182;ISBN 9780080541426 (electronic bk.);ISBN 0080541429 (electronic bk.)
+    Format: 1 online resource (xiv, 426 p.) : ill.
+    Language: English
+    Snippet: . The text initially surveys the requirements of humanity, the subsequent need for solar cells, the nature of sunlight and the properties of semiconductors. Concrete examples, extensive references and... A large number of solar cell and solar cell systems are described in this volume. The theory of their operation, their design and the levels of their performance is discussed. Originally the book... theoretical arguments are then used to present a comparison of options available in the design and operation of solar cells and solar cell systems. The cells - constructed from single, crystal... APPENDIX B: SELECTED PROPERTIES OF SEMICONDUCTORS WITH SOLAR CELL POTENTIALAPPENDIX C: THE SATURATION CURRENT IN PN JUNCTION SOLAR CELLS; APPENDIX D: SOME USEFUL PHYSICAL CONSTANTS; APPENDIX E... , polycrystalline and amorphous semiconductors - and the systems - have varying designs and differing levels of solar energy for input and produce electricity or electrical and thermal energies. Solar cell... appeared in 1978 but extensive change over the intervening years in the fields of energy generation and consumption, solar energy and solar cells, has necessitated the publication of an updated version
+    Source: Aleph
+    Collation: 000565231
+    Electronic Local Note: This eBook is part of the Elsevier EBS collection - purchased
+
+http://ntu-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=NTU_LMS_DS000565231&indx=5&recIds=NTU_LMS_DS000565231&recIdxs=4&elementId=4&renderMode=poppedOut&displayMode=full&frbrVersion=2&frbg=&rfnGrpCounter=1&mulIncFctN=facet_rtype&dscnt=0&rfnIncGrp=1&scp.scps=scope%3A%28NTU%29%2Cprimo_central_multiple_fe&tb=t&mode=Basic&vid=NTU_VU4&tab=all&srt=rank&vl%28freeText0%29=solar%20energy&dum=true&fctIncV=books&dstmp=1461931945509

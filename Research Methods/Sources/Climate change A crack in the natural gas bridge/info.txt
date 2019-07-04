@@ -1,0 +1,10 @@
+http://ntu-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do?frbrVersion=4&tabs=detailsTab&ct=display&fn=search&doc=TN_medline25317563&indx=2&recIds=TN_medline25317563&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=4&frbg=&&dscnt=0&scp.scps=scope%3A%28NTU_BRACK_LIB%29%2Cscope%3A%28NTU_CLIFT_LIB%29%2Cscope%3A%28NTU_BOOTS_LIB%29%2Cscope%3A%28NTU_ML_DS%29%2Cscope%3A%28NTU_LMS_DS%29%2Cscope%3A%28NTU_EPRINTS_DS%29%2Cprimo_central_multiple_fe&tb=t&mode=Basic&vid=NTU_VU4&srt=rank&tab=all&dum=true&vl%28freeText0%29=natural%20gas%20climate%20change&dstmp=1463665914537
+
+    Title: Climate change: A crack in the natural-gas bridge
+    Author: Davis, Steven J ; Shearer, Christine
+    Is Part Of: Nature, 23 October 2014, Vol.514(7523), pp.436-7 [Peer Reviewed Journal]
+    Subjects: Environmental Policy; Climate Change -- Statistics & Numerical Data; Natural Gas -- Utilization
+    Identifier: E-ISSN: 1476-4687 ; PMID: 25317563 Version:1 DOI: 10.1038/nature13927
+    Language: English
+    Snippet: Climate change: A crack in the natural-gas bridge.
+    Source: MEDLINE/PubMed (U.S. National Library of Medicine)

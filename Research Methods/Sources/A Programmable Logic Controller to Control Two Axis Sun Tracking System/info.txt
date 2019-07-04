@@ -1,0 +1,14 @@
+
+
+    Title: A Programmable Logic Controller to Control Two Axis Sun Tracking System
+    Author: Rustom Mamlook ; Salem Nijmeh ; Salah M. Abdallah
+    Is Part Of: Information Technology Journal, 01 January 2006, Vol.5(6), pp.1083-1087 [Peer Reviewed Journal]
+    Description: This study describes a system that uses the Programmable Logic Controller (PLC) to control the motion of a two-axis sun-tracking surfaces. The present study was conducted to monitor the performance of system and measure long-term values of global solar radiation on moving surfaces in Amman, Jordan. Results are compared with those on a fixed surface tilted at 32° towards south. Preliminary measurements indicated that the use of two-axis tracking would increase daily energy collection by more than 40%. The designed system operated smoothly with precise positioning even in adverse weather conditions.
+    Subjects: Programmable Logic Controller ; Open Loop Control ; Two-Axis Tracking ; Electromechanical System ; Solar Radiation Measurements
+    Identifier: ISSN: 1812-5638 ; E-ISSN: 1812-5646
+    Language: English
+    Snippet: of system and measure long-term values of global solar radiation on moving surfaces in Amman, Jordan. Results are compared with those on a fixed surface tilted at 32° towards south. Preliminary... measurements indicated that the use of two-axis tracking would increase daily energy collection by more than 40%. The designed system operated smoothly with precise positioning even in adverse weather... A Programmable Logic Controller to Control Two Axis Sun Tracking System... This study describes a system that uses the Programmable Logic Controller (PLC) to control the motion of a two-axis sun-tracking surfaces. The present study was conducted to monitor the performance
+    Source: Directory of Open Access Journals (DOAJ)
+
+
+http://ntu-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do?frbrVersion=3&tabs=detailsTab&ct=display&fn=search&doc=TN_doaj_xmloai%3adoaj.org%2farticle%3a2eb79cb32705450c98e53904ed69fa66&indx=1&recIds=TN_doaj_xmloai%3adoaj.org%2farticle%3a2eb79cb32705450c98e53904ed69fa66&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=3&frbg=&&dscnt=0&scp.scps=scope%3A%28NTU_BRACK_LIB%29%2Cscope%3A%28NTU_CLIFT_LIB%29%2Cscope%3A%28NTU_BOOTS_LIB%29%2Cscope%3A%28NTU_ML_DS%29%2Cscope%3A%28NTU_LMS_DS%29%2Cscope%3A%28NTU_EPRINTS_DS%29%2Cprimo_central_multiple_fe&tb=t&mode=Basic&vid=NTU_VU4&srt=rank&tab=all&dum=true&vl%28freeText0%29=A%20programmable%20logic%20controller%20to%20control%20two%20axis%20sun%20tracking%20system&dstmp=1463837676815

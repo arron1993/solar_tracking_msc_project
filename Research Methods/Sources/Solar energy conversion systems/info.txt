@@ -1,0 +1,19 @@
+
+
+    Title: Solar energy conversion systems [electronic resource]
+    Author: Jeffrey R. S. Brownson
+    Description: Context and philosophy of design -- Laws of light -- Physics of light, heat, work and photoconversion -- Metereology: the many facets of the sky -- Sun-Earth geometry -- Applying the angles to shadows and tracking -- Measure and estimation of the solar resource -- Solar energy economics -- Solar project finance -- The sun as commons -- Systems logic of devices: patterns -- Systems logic of devices: optocalorics -- Systems logic of devices: Optoelectronics -- Concentration-- the pattern to manipulate light -- Project design.
+    Solar energy conversion requires a different mind-set from traditional energy engineering in order to assess distribution, scales of use, systems design, predictive economic models for fluctuating solar resources, and planning to address transient cycles and social adoption. Solar Energy Conversion Systems examines solar energy conversion as an integrative design process, applying systems thinking methods to a solid knowledge base for creators of solar energy systems. This approach permits different levels of access for the emerging broad audience of scientists, engineers, architecture.
+    Subjects: Solar energy
+    Publisher: Oxford : Academic Press
+    Publication date: 2014
+    Identifier: ISBN 9780123973153 (electronic bk.);ISBN 0123973155 (electronic bk.);ISBN 9780123970213 (electronic bk.);ISBN 0123970210 (electronic bk.)
+    Format: 1 online resource (471 p.).
+    Language: English
+    Snippet: shadows and tracking -- Measure and estimation of the solar resource -- Solar energy economics -- Solar project finance -- The sun as commons -- Systems logic of devices: patterns -- Systems logic of... solar resources, and planning to address transient cycles and social adoption. Solar Energy Conversion Systems examines solar energy conversion as an integrative design process, applying systems... Context and philosophy of design -- Laws of light -- Physics of light, heat, work and photoconversion -- Metereology: the many facets of the sky -- Sun-Earth geometry -- Applying the angles to... thinking methods to a solid knowledge base for creators of solar energy systems. This approach permits different levels of access for the emerging broad audience of scientists, engineers, architecture.... Solar energy conversion requires a different mind-set from traditional energy engineering in order to assess distribution, scales of use, systems design, predictive economic models for fluctuating
+    Source: Aleph
+    Aleph
+    Collation: 000777402
+    000587381
+    Electronic Local Note: This eBook is part of the Elsevier eBook Series and Backfiles set - NYP
+http://ntu-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=dedupmrg119683961&indx=1&recIds=dedupmrg119683961&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&rfnGrpCounter=1&mulIncFctN=facet_rtype&dscnt=0&rfnIncGrp=1&scp.scps=scope%3A%28NTU%29%2Cprimo_central_multiple_fe&tb=t&mode=Basic&vid=NTU_VU4&tab=all&srt=rank&vl%28freeText0%29=solar%20geometry&dum=true&fctIncV=books&dstmp=1462266592070
