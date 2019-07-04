@@ -11,3 +11,5 @@ actively try search for the brightest point in the sky instead.
 
 My twist on this was I was testing to see how each tracking method would perform in a residential environment, so in my testing 
 I mounted my minitature solar tracking platforms onto the garage and my parents home. 
+
+This code is about three to four years old so is not representative, but its still an interesting project. I also like to do things the complicated way just for academic purposes. 
