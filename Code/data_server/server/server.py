@@ -2,14 +2,16 @@ import socket
 import sys
 import datetime
 
-import Database
 from threading import Thread
 from time import sleep
-class Data_Server:
+
+from database.database import Database
+
+
+class Server:
     def __init__(self):
         print("Data Server Created")
         self.received_data = []
-
 
     def encode(self, data):
         return data.encode("utf-8")
@@ -21,11 +23,11 @@ class Data_Server:
         while 1:
             now = datetime.datetime.now()
             file_name = "./storage/{}{}{}".format(now.day,now.month,now.year)
-            db = Database.Database(file_name)            
+            db = Database(file_name)            
 
             response = "ERROR: Response Not Defined"
             try:
-                host = "192.168.0.7" #location of PIS
+                host = "192.168.0.13" #location of PIS
                 port = 8501 # PIS port
                 request = "hi" #irrelevant, PIS always returns everything
                 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -42,7 +44,6 @@ class Data_Server:
 
             sleep(1)
             
-
     def start_server(self):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         if(len(sys.argv) > 1):
@@ -61,7 +62,8 @@ class Data_Server:
     def handle_conn(self,conn):
         data = conn.recv(1024)
         data = self.decode(data)
-        response = "Received"
+        
+        response = data
         args = data.split(" ")
         method_type = args[0]
         if(method_type == "GET_DATA"):
